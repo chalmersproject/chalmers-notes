@@ -8,4 +8,4 @@
     - digital arts
     - movement and theater
     - culinary arts
-    -ceramics
+    - ceramics
